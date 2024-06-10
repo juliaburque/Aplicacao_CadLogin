@@ -2,7 +2,7 @@
 [APLICACAO_CADLOGIN](#aplicacao_cadlogin)  
 [Descrição](#descrição)  
 [Funcionalidades](#funcionalidades)  
-[Tecnologia utilizada](#tecnologia-utilizadas)  
+[Tecnologia utilizadas](#tecnologia-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)
 
@@ -27,11 +27,10 @@ Este projeto é uma aplicação web de cadastro e login, desenvolvida para demon
 A finalidade de um de aplicação de cadastro de login é múltipla e fundamental para a segurança e gerenciamento de usuários em sistemas web
 
 
-### Tecnologia utilizada ⌨️
+### Tecnologia utilizadas ⌨️
 * `html`
-* `github`
 * `bootstrap`
-* `style`
+* `css`
 
 ## Fontes consultadas 🔍
 * bootrtrap
